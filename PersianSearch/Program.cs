@@ -1,4 +1,4 @@
-﻿using EntityFrameworkCore.SqlServer.PersianSearch;
+﻿using EntityFrameworkCore.SqlServer.Extra;
 using Microsoft.EntityFrameworkCore;
 using PersianSearch;
 

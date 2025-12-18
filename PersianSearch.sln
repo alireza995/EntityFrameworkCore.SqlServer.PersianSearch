@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersianSearch", "PersianSearch\PersianSearch.csproj", "{7099F63C-7C28-456B-8A8A-25AC172A3F1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkCore.SqlServer.PersianSearch", "EntityFrameworkCore.SqlServer.PersianSearch\EntityFrameworkCore.SqlServer.PersianSearch.csproj", "{6F68283A-CEE2-4F8C-81B1-2D447680B529}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkCore.SqlServer.Extra", "EntityFrameworkCore.SqlServer.Extra\EntityFrameworkCore.SqlServer.Extra.csproj", "{6F68283A-CEE2-4F8C-81B1-2D447680B529}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

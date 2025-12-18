@@ -21,7 +21,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\EntityFrameworkCore.SqlServer.PersianSearch\EntityFrameworkCore.SqlServer.PersianSearch.csproj" />
+      <ProjectReference Include="..\EntityFrameworkCore.SqlServer.Extra\EntityFrameworkCore.SqlServer.Extra.csproj" />
     </ItemGroup>
 
 </Project>
